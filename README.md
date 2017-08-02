@@ -10,5 +10,3 @@ Just click download! There's no PHP so no need for a web server.
 
 * **Natalie de Weerd** - *Initial work* - [nataliedeweerd](https://github.com/nataliedeweerd)
 * **Tom Hockett** - *Some tweeks here and there* - [tomhockett](https://github.com/tomhockett)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
